@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  ChildSocket.cpp
+  ListenSocket.cpp
+  Server.cpp
+  ServerDlg.cpp
+D:\Desktop\ChatServer\Server\Server\ServerDlg.cpp(414,26): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatServer\Server\Server\ServerDlg.cpp(431,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatServer\Server\Server\ServerDlg.cpp(454,16): error C2065:  'PI': 선언되지 않은 식별자입니다.
